@@ -1,0 +1,34 @@
+.project-1
+{
+    background-color: aliceblue;
+}
+
+#project-1-header
+{
+    padding: 20px;
+    background-color: darkkhaki;
+    color: mintcream;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#project-1-container
+{
+    margin-left: 58.5%;
+    margin-right: 25%;
+    background-color: rebeccapurple;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+#project-1-content
+{
+    text-align: right;
+}
+
+#landing-page-link
+{
+    background-color: lawngreen;
+}

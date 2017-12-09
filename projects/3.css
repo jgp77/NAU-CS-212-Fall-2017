@@ -1,0 +1,9 @@
+.error {
+  padding-top: 25px;
+  color: red;
+  font-size: 25px;
+}
+
+#project-form {
+  padding: 25px;
+}

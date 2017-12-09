@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+
+@media (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+.column {
+    float: left;
+    padding: 10px;
+}
+
+#advertisment {
+    width: 12.5%;
+    float: left;
+    background-color: lawngreen;
+    color: floralwhite;
+
+}
+
+#links {
+    background-color: black;
+    color: floralwhite;
+
+    width: 12.5%;
+
+}
+
+#paragraph
+{
+    font-size: 20px;
+    width: 75%;
+}
+
+#ptitle {
+    display: block;
+    color: fuchsia;
+    background-color: darkblue;
+    text-align: center;
+    font-size: 35px;
+    width: 45%;
+    padding: 10px;
+
+}
+
+#links ul {
+    list-style-type: none;
+    padding: 0px;
+    margin:0px;
+}
+
+#links a {
+    display: block;
+    text-align: center;
+    background-color: floralwhite;
+    padding:10px;
+    margin: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+#links a:hover {
+    background-color: mediumslateblue;
+    color: floralwhite;
+}

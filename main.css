@@ -1,0 +1,54 @@
+#page-heading
+{
+    background-color: black;
+    color: floralwhite;
+    padding: 20px;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#project-links
+{
+    margin-top: 20px;
+    width: 15%;
+    text-align: center;
+}
+
+
+.h1
+{
+    font-size: 35px;
+}
+
+.h2
+{
+    font-size: 25px;
+}
+.h3
+{
+    font-size: 15px;
+}
+
+#project-links ul {
+    list-style-type: none;
+}
+
+#project-links a {
+    display: block;
+    text-align: center;
+    background-color: floralwhite;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+
+    margin: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+#project-links a:hover {
+    background-color: mediumslateblue;
+    color: floralwhite;
+}
